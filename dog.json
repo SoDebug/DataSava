@@ -1,0 +1,57 @@
+[
+    {
+      "breed": "Labrador Retriever",
+      "id": "0001",
+      "gender": "Male",
+      "available": true
+    },
+    {
+      "breed": "Golden Retriever",
+      "id": "0002",
+      "gender": "Female",
+      "available": true
+    },
+    {
+      "breed": "German Shepherd",
+      "id": "0003",
+      "gender": "Male",
+      "available": false
+    },
+    {
+      "breed": "Beagle",
+      "id": "0004",
+      "gender": "Female",
+      "available": true
+    },
+    {
+      "breed": "Bulldog",
+      "id": "0005",
+      "gender": "Male",
+      "available": true
+    },
+    {
+      "breed": "Poodle",
+      "id": "0006",
+      "gender": "Female",
+      "available": false
+    },
+    {
+      "breed": "Siberian Husky",
+      "id": "0007",
+      "gender": "Male",
+      "available": true
+    },
+    {
+      "breed": "Boxer",
+      "id": "0008",
+      "gender": "Female",
+      "available": true
+    },
+    {
+      "breed": "Dalmatian",
+      "id": "0009",
+      "gender": "Male",
+      "available": false
+    }
+  ]
+  
