@@ -3,55 +3,64 @@
       "breed": "Labrador Retriever",
       "id": "0001",
       "gender": "Male",
-      "available": true
+      "available": true,
+      "filepath": "src\\pick_on_web\\Labrador_Retriever_0001.jpg"
     },
     {
       "breed": "Golden Retriever",
       "id": "0002",
       "gender": "Female",
-      "available": true
+      "available": true,
+      "filepath": "src\\pick_on_web\\Golden_Retriever_0002.jpg"
     },
     {
       "breed": "German Shepherd",
       "id": "0003",
       "gender": "Male",
-      "available": false
+      "available": false,
+      "filepath": "src\\pick_on_web\\German_Shepherd_0003.jpg"
     },
     {
       "breed": "Beagle",
       "id": "0004",
       "gender": "Female",
-      "available": true
+      "available": true,
+      "filepath": "src\\pick_on_web\\Beagle_0004.jpg"
     },
     {
       "breed": "Bulldog",
       "id": "0005",
       "gender": "Male",
-      "available": true
+      "available": true,
+      "filepath": "src\\pick_on_web\\Bulldog_0005.jpg"
     },
     {
       "breed": "Poodle",
       "id": "0006",
       "gender": "Female",
-      "available": false
+      "available": false,
+      "filepath": "src\\pick_on_web\\Poodle_0006.jpg"
     },
     {
       "breed": "Siberian Husky",
       "id": "0007",
       "gender": "Male",
-      "available": true
+      "available": true,
+      "filepath": "src\\pick_on_web\\Siberian_Husky_0007.jpg"
     },
     {
       "breed": "Boxer",
       "id": "0008",
       "gender": "Female",
-      "available": true
+      "available": true,
+      "filepath": "src\\pick_on_web\\Boxer_0008.jpg"
     },
     {
       "breed": "Dalmatian",
       "id": "0009",
       "gender": "Male",
-      "available": false
+      "available": false,
+      "filepath": "src\\pick_on_web\\Dalmatian_0009.jpg"
     }
   ]
   
