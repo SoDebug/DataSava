@@ -4,63 +4,72 @@
       "id": "0001",
       "gender": "Male",
       "available": true,
-      "filepath": "src\\pick_on_web\\Labrador_Retriever_0001.jpg"
+      "filepath": "src\\pick_on_web\\Labrador_Retriever_0001.jpg",
+      "auth": true
     },
     {
       "breed": "Golden Retriever",
       "id": "0002",
       "gender": "Female",
       "available": true,
-      "filepath": "src\\pick_on_web\\Golden_Retriever_0002.jpg"
+      "filepath": "src\\pick_on_web\\Golden_Retriever_0002.jpg",
+      "auth": true
     },
     {
       "breed": "German Shepherd",
       "id": "0003",
       "gender": "Male",
       "available": false,
-      "filepath": "src\\pick_on_web\\German_Shepherd_0003.jpg"
+      "filepath": "src\\pick_on_web\\German_Shepherd_0003.jpg",
+      "auth": true
     },
     {
       "breed": "Beagle",
       "id": "0004",
       "gender": "Female",
       "available": true,
-      "filepath": "src\\pick_on_web\\Beagle_0004.jpg"
+      "filepath": "src\\pick_on_web\\Beagle_0004.jpg",
+      "auth": true
     },
     {
       "breed": "Bulldog",
       "id": "0005",
       "gender": "Male",
       "available": true,
-      "filepath": "src\\pick_on_web\\Bulldog_0005.jpg"
+      "filepath": "src\\pick_on_web\\Bulldog_0005.jpg",
+      "auth": true
     },
     {
       "breed": "Poodle",
       "id": "0006",
       "gender": "Female",
       "available": false,
-      "filepath": "src\\pick_on_web\\Poodle_0006.jpg"
+      "filepath": "src\\pick_on_web\\Poodle_0006.jpg",
+      "auth": true
     },
     {
       "breed": "Siberian Husky",
       "id": "0007",
       "gender": "Male",
       "available": true,
-      "filepath": "src\\pick_on_web\\Siberian_Husky_0007.jpg"
+      "filepath": "src\\pick_on_web\\Siberian_Husky_0007.jpg",
+      "auth": true
     },
     {
       "breed": "Boxer",
       "id": "0008",
       "gender": "Female",
       "available": true,
-      "filepath": "src\\pick_on_web\\Boxer_0008.jpg"
+      "filepath": "src\\pick_on_web\\Boxer_0008.jpg",
+      "auth": true
     },
     {
       "breed": "Dalmatian",
       "id": "0009",
       "gender": "Male",
       "available": false,
-      "filepath": "src\\pick_on_web\\Dalmatian_0009.jpg"
+      "filepath": "src\\pick_on_web\\Dalmatian_0009.jpg",
+      "auth": true
     }
   ]
   
