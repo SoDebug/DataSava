@@ -21,7 +21,7 @@
       "gender": "Male",
       "available": false,
       "filepath": "src\\pick_on_web\\German_Shepherd_0003.jpg",
-      "auth": true
+      "auth": false
     },
     {
       "breed": "Beagle",
