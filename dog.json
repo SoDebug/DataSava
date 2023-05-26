@@ -13,7 +13,7 @@
       "gender": "Female",
       "available": true,
       "filepath": "src\\pick_on_web\\Golden_Retriever_0002.jpg",
-      "auth": true
+      "auth": false
     },
     {
       "breed": "German Shepherd",
