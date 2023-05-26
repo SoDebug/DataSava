@@ -5,7 +5,7 @@
       "gender": "Male",
       "available": true,
       "filepath": "src\\pick_on_web\\Labrador_Retriever_0001.jpg",
-      "auth": false
+      "auth": true
     },
     {
       "breed": "Golden Retriever",
